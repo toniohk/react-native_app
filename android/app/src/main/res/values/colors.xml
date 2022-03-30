@@ -1,0 +1,5 @@
+<resources>
+    <color name="background">#4684de</color>
+    <color name="status_bar_color">#4684de</color>
+    <color name="primary_dark">#000</color>
+</resources>
